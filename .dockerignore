@@ -1,0 +1,17 @@
+.git 
+
+.github 
+
+node_modules 
+
+npm-debug.log 
+
+.env 
+
+*.pem 
+
+credentials.json 
+
+coverage 
+
+README.md
